@@ -1,0 +1,5 @@
+{
+  "name": "Domain Availability Checker",
+  "description": "An SEO-optimized web application to check the availability of domain names using a public WHOIS API. Features a sleek dark theme, TLD selector, and detailed WHOIS data display.",
+  "requestFramePermissions": []
+}
